@@ -1,0 +1,24 @@
+{
+  "name": "anki_lyric_flashcards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elbert-git/Anki_Lyric_FlashCards.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elbert-git/Anki_Lyric_FlashCards/issues"
+  },
+  "homepage": "https://github.com/elbert-git/Anki_Lyric_FlashCards#readme",
+  "dependencies": {
+    "puppeteer": "^21.0.1",
+    "typescript": "^5.1.6"
+  }
+}
